@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/tickets",
+      "destination": "http://discord.gg/fVkCPaTfF2",
+      "permanent": true
+    }
+  ]
+}
