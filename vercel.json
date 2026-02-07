@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/tickets",
+      "source": "/assist",
       "destination": "http://discord.gg/fVkCPaTfF2",
       "permanent": true
     }
